@@ -1,0 +1,31 @@
+
+.App-header {
+  background-color: #906229;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #622f70;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(8px + 2vmin);
+  color: white;
+}
+
+.button-container {
+  float: right;
+  justify-content: right;
+}
+
+.App-right-align {
+  float: right;
+  justify-content: right;
+}
